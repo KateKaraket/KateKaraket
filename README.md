@@ -32,8 +32,7 @@ FinTech Innovation
 Data-Driven Decision Making
 
 # 🔗 Connect with Me:
-<a href= https://www.linkedin.com/in/karaket-singthong > 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karaket-singthong)
 
 
 <!--
