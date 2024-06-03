@@ -3,7 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karaket-singthong)
 
 # About Me
+---
+<div align="center"><h1 style="font-size: 6em;">Karaket Singthong - Senior Analyst 💻</h1></div>
 
+---
 👋 Hello! I'm Kate, a passionate and driven student currently pursuing a Master's in Business Analytics and Big Data. With a solid foundation in Scrum Mastery and Project Management within the FinTech industry, I bring a unique blend of technical and managerial expertise to the table.
 
 💼 **Professional Experience:**
