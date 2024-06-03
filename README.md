@@ -2,17 +2,17 @@
 
 👋 Hello! I'm Kate, a passionate and driven student currently pursuing a Master's in Business Analytics and Big Data. With a solid foundation in Scrum Mastery and Project Management within the FinTech industry, I bring a unique blend of technical and managerial expertise to the table.
 
-# 💼 Professional Experience:
+### 💼 Professional Experience:
 
 Design Project Manager: Managed end-to-end design projects, ensuring timely delivery and alignment with client expectations.
 Scrum Master: Successfully led agile teams to deliver high-quality software products in a fast-paced FinTech environment.
 
 
-# 🎯 Aspirations:
+### 🎯 Aspirations:
 
 Product Management: Eager to transition into product management, where I can leverage my analytical skills and project management experience to drive product success and innovation.
 
-# 📈 Skills & Expertise:
+### 📈 Skills & Expertise:
 
 Product Lifecycle Management
 Innovation Management
@@ -22,7 +22,7 @@ Data Visualization
 Product Strategy
 Agile Methodologies
 
-# 🌟 Personal Brand Keywords:
+### 🌟 Personal Brand Keywords:
 
 Business Analytics
 Big Data
@@ -31,7 +31,7 @@ Agile Project Management
 FinTech Innovation
 Data-Driven Decision Making
 
-# 🔗 Connect with Me:
+### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karaket-singthong)
 
 
