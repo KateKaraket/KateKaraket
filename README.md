@@ -1,4 +1,5 @@
 ![Purple and White Animated Gamer Twitch Banner (1)](https://github.com/KateKaraket/KateKaraket/assets/169455066/cc838d6a-e500-4d99-914e-ed655ee080f3)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karaket-singthong)
 
 # About Me
@@ -20,6 +21,8 @@
 - Data Visualization
 - Product Strategy
 - Agile Methodologies
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
 
 🌟 **Personal Brand Keywords:**
 - Business Analytics
@@ -28,6 +31,12 @@
 - Agile Project Management
 - FinTech Innovation
 - Data-Driven Decision Making
+- AI and ML Applications
+
+📊 ** Technical Skills **
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) SQL
+
 
 
 <!--
