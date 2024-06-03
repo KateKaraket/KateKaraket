@@ -1,4 +1,7 @@
-## About Me
+![Purple and White Animated Gamer Twitch Banner (1)](https://github.com/KateKaraket/KateKaraket/assets/169455066/cc838d6a-e500-4d99-914e-ed655ee080f3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karaket-singthong)
+
+# About Me
 
 👋 Hello! I'm Kate, a passionate and driven student currently pursuing a Master's in Business Analytics and Big Data. With a solid foundation in Scrum Mastery and Project Management within the FinTech industry, I bring a unique blend of technical and managerial expertise to the table.
 
@@ -25,9 +28,6 @@
 - Agile Project Management
 - FinTech Innovation
 - Data-Driven Decision Making
-
-### 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karaket-singthong)
 
 
 <!--
