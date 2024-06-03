@@ -33,8 +33,8 @@ Data-Driven Decision Making
 
 # 🔗 Connect with Me:
 <a href= https://www.linkedin.com/in/karaket-singthong > 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 
-![linkedin](https://github.com/KateKaraket/KateKaraket/assets/169455066/75df4afb-bb1f-441e-990f-bcefb605c027)
 
 <!--
 **KateKaraket/KateKaraket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
